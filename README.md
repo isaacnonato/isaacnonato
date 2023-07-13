@@ -9,3 +9,6 @@ Some of my skills:
 - Scala 
 - Knowledge on computer networks 
 - Knowledge on computer architecture
+<center>
+<img src="computer.gif" height=80>
+</center>
